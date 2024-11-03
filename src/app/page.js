@@ -21,6 +21,7 @@ const DigitalAgency = () => {
     }
   }, []);
 
+  //json
   function playCursor() {
     try {
       let client_cursor = document.getElementById("client_cursor");
