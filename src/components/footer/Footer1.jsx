@@ -143,10 +143,10 @@ export default function Footer1() {
             <div className="footer__social-3">
               <ul>
                 <li>
-                  <a href="https://t.me/petja666" target="_blank">Telegram</a>
+                  <a href="https://t.me/chaincraft_dev" target="_blank">Telegram</a>
                 </li>
                 <li>
-                  <a href="https://wa.me/447834898962" target="_blank">WhatsApp</a>
+                  <a href="https://wa.me/447914640779" target="_blank">WhatsApp</a>
                 </li>
                 <li>
                   <a href={`/contact`}> Contacts</a>
@@ -167,7 +167,7 @@ export default function Footer1() {
               <div className="col-xxl-4 col-xl-4 col-lg-4">
                 <div className="footer__copyright-3">
                   <p>
-                    © 2024 | All rights reserved by{" "}
+                    © 2025 | All rights reserved by{" "}
                       ChainCraft
                   </p>
                 </div>
@@ -179,7 +179,7 @@ export default function Footer1() {
                       <Link href={`/about`}> About us</Link>
                     </li>
                     <li>
-                      <Link href={`/contact`}>Contants</Link>
+                      <Link href={`/contact`}>Contact us</Link>
                     </li>
                     <li>
                       <Link href={`/privacy-policy`}>Privacy Policy</Link>

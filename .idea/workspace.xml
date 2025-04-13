@@ -4,7 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63809f7d-44d6-46ec-9677-6f79384e37e3" name="Changes" comment="" />
+    <list default="true" id="63809f7d-44d6-46ec-9677-6f79384e37e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/logo/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/portfolio/case4/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/portfolio/case4/ip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/portfolio/case4/macbook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/portfolio/case5/macbook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/portfolio/case5/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/portfolio/case5/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/portfolio/phone4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/portfolio/phone5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/team/detail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/1/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/1/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/1/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/1/one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/1/three.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/3/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/3/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/3/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/3/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/3/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/3/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/4/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/4/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/imgs/testimonial/4/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/feedback/DigitalAgencyTestimonial.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/portfolio/PortfolioDetails4.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/portfolio/PortfolioDetails5.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/team/Team1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/imgs/service/ecommerce.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/imgs/service/ecommerce.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/portfolio-details/[component]/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/portfolio-details/[component]/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/canvas/Canvas.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/canvas/Canvas.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/Contact1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/Contact1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header3.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header3.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hero/DigitalAgencyHero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hero/DigitalAgencyHero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/portfolio/DigitalAgencyPortfolio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/portfolio/DigitalAgencyPortfolio.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +70,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Petja314&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Petja314/web-studio-chaincraft.git&quot;,
+    &quot;accountId&quot;: &quot;1c453d52-93b6-4fc3-b36a-48e225f5a582&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2mO9tRHKIqXHsE82jRwXjFw65JZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,35 +97,40 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/flindzivator/Downloads/it-kamasutra v2/chaincraft/chain-craft/public/assets/imgs/portfolio/case2",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/flindzivator/Desktop/chaincraft-business/web/web-studio-chaincraft/src/app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.start.executor": "Run",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\flindzivator\Downloads\it-kamasutra v2\chaincraft\chain-craft\public\assets\imgs\portfolio\case2" />
-      <recent name="C:\Users\flindzivator\Downloads\it-kamasutra v2\chaincraft\chain-craft\public\assets\imgs\portfolio\case3" />
-      <recent name="C:\Users\flindzivator\Downloads\it-kamasutra v2\chaincraft\chain-craft\public\assets\imgs\portfolio" />
-      <recent name="C:\Users\flindzivator\Downloads\it-kamasutra v2\chaincraft\chain-craft\public\assets\imgs\portfolio\case1" />
-      <recent name="C:\Users\flindzivator\Downloads\it-kamasutra v2\chaincraft\chain-craft\public\assets\imgs\about" />
+      <recent name="C:\Users\flindzivator\Desktop\chaincraft-business\web\web-studio-chaincraft\src\app" />
+      <recent name="C:\Users\flindzivator\Desktop\chaincraft-business\web\web-studio-chaincraft\src\components\portfolio" />
+      <recent name="C:\Users\flindzivator\Desktop\chaincraft-business\web\web-studio-chaincraft\public\assets\imgs\portfolio\case4" />
+      <recent name="C:\Users\flindzivator\Desktop\chaincraft-business\web\web-studio-chaincraft\src\components\feedback" />
+      <recent name="C:\Users\flindzivator\Desktop\chaincraft-business\web\web-studio-chaincraft\public\assets\imgs\testimonial" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\flindzivator\Downloads\it-kamasutra v2\chaincraft\chain-craft\src\app\portfolio-details\[component]" />
-      <recent name="C:\Users\flindzivator\Downloads\it-kamasutra v2\chaincraft\chain-craft\src\app\portfolio-details" />
-      <recent name="C:\Users\flindzivator\Downloads\it-kamasutra v2\chaincraft\chain-craft\public\assets\imgs\portfolio" />
-      <recent name="C:\Users\flindzivator\Downloads\it-kamasutra v2\chaincraft\chain-craft\public\assets\imgs\portfolio\case3" />
-      <recent name="C:\Users\flindzivator\Downloads\it-kamasutra v2\chaincraft\chain-craft\public\assets\imgs\about" />
+      <recent name="C:\Users\flindzivator\Desktop\chaincraft-business\web\web-studio-chaincraft\public" />
+      <recent name="C:\Users\flindzivator\Desktop\chaincraft-business\web\web-studio-chaincraft\public\assets\imgs\logo" />
+      <recent name="C:\Users\flindzivator\Desktop\chaincraft-business\web\web-studio-chaincraft\public\assets\imgs\testimonial\1" />
+      <recent name="C:\Users\flindzivator\Desktop\chaincraft-business\web\web-studio-chaincraft\public\assets\imgs\portfolio\case5" />
+      <recent name="C:\Users\flindzivator\Desktop\chaincraft-business\web\web-studio-chaincraft\public\assets\imgs\portfolio" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -86,11 +163,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -105,6 +189,8 @@
       <workItem from="1727448872816" duration="2939000" />
       <workItem from="1730563845197" duration="9511000" />
       <workItem from="1730630181817" duration="13113000" />
+      <workItem from="1744459517250" duration="44000" />
+      <workItem from="1744459562798" duration="25876000" />
     </task>
     <servers />
   </component>
@@ -121,5 +207,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/service/DigitalAgencyService.jsx</url>
+          <line>334</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

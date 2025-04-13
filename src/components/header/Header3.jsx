@@ -11,8 +11,8 @@ import Image from "next/image";
 import LanguageButton from "../../components/language/LanguageButton";
 
 const contactIcons = [
-  {href : "https://t.me/petja666" , icon : TelegramIcon , alt : "Telegram Icon"},
-  {href : "https://wa.me/447834898962" , icon : WhatsAppIcon , alt : "WhatsApp icon"},
+  {href : "https://t.me/chaincraft_dev" , icon : TelegramIcon , alt : "Telegram Icon"},
+  {href : "https://wa.me/447914640779" , icon : WhatsAppIcon , alt : "WhatsApp icon"},
   {href : "mailto:chainccraft@outlook.com" , icon : MailIcon , alt : "EmailIcon"},
 ]
 

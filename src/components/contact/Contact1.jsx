@@ -8,9 +8,9 @@ import EmailIcon from "../../../public/assets/imgs/logo/mail.svg";
 import emailjs from '@emailjs/browser';
 
 const getInTouch = [
-  {icon : TelegramIcon ,    text : "@petja666" , href : "https://t.me/petja666"},
-  {icon : WhatsAppIcon ,    text : "+44 7834898962" , href : "https://wa.me/447834898962" },
-  {icon : EmailIcon ,       text : "chaincraft@gmail.com" , href : "mailto:chainccraft@outlook.com" },
+  {icon : TelegramIcon ,    text : "@chaincraft_dev" , href : "https://t.me/chaincraft_dev"},
+  {icon : WhatsAppIcon ,    text : "+44 7914640779" , href : "https://wa.me/447914640779" },
+  {icon : EmailIcon ,       text : "chainccraft@outlook.com" , href : "mailto:chainccraft@outlook.com" },
 ]
 
 const Contact1 = () => {

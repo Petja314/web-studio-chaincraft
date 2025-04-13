@@ -5,8 +5,9 @@ import Link from "next/link";
 import Portfilio11 from "../../../public/assets/imgs/portfolio/phone1.png";
 import Portfilio12 from "../../../public/assets/imgs/portfolio/phone2.png";
 import Portfilio13 from "../../../public/assets/imgs/portfolio/phone3.png";
+import Portfilio14 from "../../../public/assets/imgs/portfolio/phone4.png";
+import Portfilio15 from "../../../public/assets/imgs/portfolio/phone5.png";
 import Image from "next/image";
-import {useLocale, useTranslations} from "next-intl";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -14,6 +15,8 @@ const portfolio = [
   {img : Portfilio11, altImg : "ecommerce nail shop",            title : "Nail Shop",     date : "02 May 2024"  , component : "case_1"},
   {img : Portfilio12, altImg : "crypto project dex exchange",   title : "Gym Personal Training",  date : "23 April 2024" , component : "case_2"},
   {img : Portfilio13, altImg : "crypto landing website",       title : "Crypto Landing",    date : "02 August 2024" , component : "case_3"},
+  {img : Portfilio14, altImg : "clothing ecommerce shop",       title : "Fashion Clothing Brand",    date : "15 November 2024" , component : "case_4"},
+  {img : Portfilio15, altImg : "personalised gifts shop",       title : "Gifts Shop",    date : "28 January 2025" , component : "case_5"},
 ]
 
 const DigitalAgencyPortfolio = () => {

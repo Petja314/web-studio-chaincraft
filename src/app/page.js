@@ -1,5 +1,5 @@
 "use client"
-import {useEffect} from "react";
+import {useEffect, useRef, useState} from "react";
 import {gsap} from "gsap";
 import RootLayout from "../components/common/layout/RootLayout";
 import DigitalAgencyHero from "../components/hero/DigitalAgencyHero";
@@ -11,10 +11,17 @@ import DigitalAgencyPortfolio from "@/components/portfolio/DigitalAgencyPortfoli
 import DigitalAgencyAbout from "@/components/about/DigitalAgencyAbout";
 import DigitalAgencyCTA from "@/components/cta/DigitalAgencyCTA";
 import Head from "next/head";
+import Team1 from "@/components/team/Team1";
+import DigitalAgencyTestimonial from "@/components/feedback/DigitalAgencyTestimonial";
 
 
 
 const DigitalAgency = () => {
+    const [openModal,setOpenModal] = useState(false);
+    const [openModalTwo,setOpenModalTwo] = useState(false);
+    const [openModalThree,setOpenModalThree] = useState(false);
+
+
   useEffect(() => {
     if (typeof window !== "undefined") {
       playCursor();
@@ -88,10 +95,67 @@ const DigitalAgency = () => {
               <DigitalAgencyService />
               <DigitalAgencyWorkflow />
               {/*<DigitalAgencyBrand />*/}
-              <DigitalAgencyPortfolio />
+              <DigitalAgencyPortfolio
+              />
+              <Team1/>
+              {/*<DigitalAgencyTestimonial*/}
+              {/*    setOpenModal={setOpenModal}*/}
+              {/*    setOpenModalTwo={setOpenModalTwo}*/}
+              {/*    setOpenModalThree={setOpenModalThree}*/}
+              {/*/>*/}
               {/*<DigitalAgencyCTA />*/}
             </RootLayout>
           </main>
+
+          {/* Modal 1 */}
+            { openModal &&
+                <div className={`modal__testimonial ${openModal ? 'modal-show' : ''}`} id="modal_testimonial">
+                    <div className="modal__testimonial-content">
+          <span className="modal__close" id="modal_close" onClick={() => setOpenModal(false)}
+          >
+            <i className="fa-solid fa-xmark"></i>
+          </span>
+                      <iframe
+                          src="https://www.youtube.com/embed/vZgyWfmw_Kw"
+                          title="Testimonial Video"
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;"
+                          allowFullScreen
+                      ></iframe>
+                    </div>
+                  </div>
+            }
+
+          {/*/!* Modal 2 *!/*/}
+            {openModalTwo &&
+                <div className={`modal__testimonial ${openModalTwo ? 'modal-show' : ''}`} id="modal_testimonial">
+                    <div className="modal__testimonial-content">
+          <span className="modal__close" id="modal_close2" onClick={() => setOpenModalTwo(false)}
+          >
+            <i className="fa-solid fa-xmark"></i>
+          </span>
+                        <iframe
+                            src="https://www.youtube.com/embed/JulIeG1V8T4"
+                            allowFullScreen
+                        ></iframe>
+                    </div>
+                </div>
+            }
+
+          {/*/!* Modal 3 *!/*/}
+            {openModalThree &&
+                <div className={`modal__testimonial ${openModalThree ? 'modal-show' : ''}`} id="modal_testimonial">
+                    <div className="modal__testimonial-content">
+          <span className="modal__close" id="modal_close3" onClick={() => setOpenModalThree(false)}
+          >
+            <i className="fa-solid fa-xmark"></i>
+          </span>
+                        <iframe
+                            src="https://www.youtube.com/embed/7QkL-40FRfE"
+                            allowFullScreen
+                        ></iframe>
+                    </div>
+                </div>
+            }
         </div>
   );
 };

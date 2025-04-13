@@ -6,6 +6,8 @@ import PortfolioDetails2 from "@/components/portfolio/PortfolioDetails2";
 import PortfolioDetails3 from "@/components/portfolio/PortfolioDetails3";
 import ErrorDark from "@/app/error/page";
 import RootLayout from "../../../components/common/layout/RootLayout";
+import PortfolioDetails4 from "@/components/portfolio/PortfolioDetails4";
+import PortfolioDetails5 from "@/components/portfolio/PortfolioDetails5";
 
 const PortfolioDetails = ({params}) => {
     const searchParams = useSearchParams();
@@ -21,6 +23,8 @@ const PortfolioDetails = ({params}) => {
             case 'case_1' : return  <PortfolioDetails1/>
             case 'case_2' : return  <PortfolioDetails2 />
             case 'case_3' : return  <PortfolioDetails3 />
+            case 'case_4' : return  <PortfolioDetails4 />
+            case 'case_5' : return  <PortfolioDetails5 />
             default : return <ErrorDark/>
         }
     }

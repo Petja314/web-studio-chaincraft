@@ -62,7 +62,7 @@ const DigitalAgencyHero = () => {
                 <div className={"buttonWrapper"} >
                   <Link href={`/contact`} style={{padding : "0px" , border : "none" , display : "inline-table" }}>
                     <button className={"translate_btn"}>
-                      Contacts
+                      Contact us
                     </button>
                   </Link>
 
@@ -91,7 +91,7 @@ const DigitalAgencyHero = () => {
                   alt="Arrow Down Icon"
                 />
                 <div className="experience">
-                  <h2 className="title">10+</h2>
+                  <h2 className="title">20+</h2>
                   <p>
                    Successfully completed <br />
                     projects

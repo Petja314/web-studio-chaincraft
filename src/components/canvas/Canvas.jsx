@@ -22,9 +22,9 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
   ]
 
   const getInTouch = [
-    {icon : TelegramIcon ,    text : "@chaincraft" , href : "https://t.me/chaincraftdev"},
-    {icon : WhatsAppIcon ,    text : "+44 78434311321" , href : "https://wa.me/447375524565" },
-    {icon : EmailIcon ,       text : "chaincraft@gmail.com" , href : "mailto:chainccraft@outlook.com" },
+    {icon : TelegramIcon ,    text : "@chaincraft_dev" , href : "https://t.me/chaincraft_dev"},
+    {icon : WhatsAppIcon ,    text : "+44 7914640779" , href : "https://wa.me/447914640779" },
+    {icon : EmailIcon ,       text : "chainccraft@outlook.com" , href : "mailto:chainccraft@outlook.com" },
   ]
 
   const [isClient, setIsClient] = useState(false)
